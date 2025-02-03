@@ -1,4 +1,5 @@
 ## Hi there 👋
+#### KAI, your AI-powered sidecar brain!
 
 <!--
 
