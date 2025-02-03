@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, Coming soon......
 #### KAI, your AI-powered sidecar brain!
 
 <!--
